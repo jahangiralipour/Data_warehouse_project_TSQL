@@ -12,7 +12,7 @@ Welcome to the Data Warehouse and Analytics Project repository! 🌟 This reposi
 * Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-##Project Overview
+###Project Overview
 
 This project demonstrates my ability to design and develop a modern data warehouse using T-SQL and SQL Server, employing best practices throughout. The key components of the project include:
 
@@ -31,7 +31,7 @@ This project demonstrates my ability to design and develop a modern data warehou
 
 ---
 
-##Project Requirements
+###Project Requirements
 ### Building the Data Warehouse (Data Engineering)
 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
